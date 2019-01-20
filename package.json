@@ -1,0 +1,9 @@
+{
+  "name": "codescreen-javascript-fibonacci-example",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "mocha": "^3.2.0",
+    "chai": "^4.2.0"
+  }
+}
