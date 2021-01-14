@@ -1,7 +1,7 @@
 /**
  * Generates numbers in the Fibonacci sequence.
  */
-class Fibonacci {
+export class Fibonacci {
 
     /**
      * @param n
@@ -11,5 +11,3 @@ class Fibonacci {
         //TODO Implement...
     }
 }
-
-module.exports.Fibonacci = Fibonacci;

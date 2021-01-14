@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "mocha": "^6.2.0",
-    "chai": "^4.2.0"
-  }
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  },
+  "type": "module"
 }
