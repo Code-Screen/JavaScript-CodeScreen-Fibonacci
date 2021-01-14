@@ -5,7 +5,9 @@ const { expect } = pkg;
 const fib = new Fibonacci();
 
 describe("Fibonacci Test", () => {
+
     describe("calculate", () => {
+
         it("generates 0", () => {
             expect(fib.calculate(0)).to.equal(0)
         });
@@ -21,5 +23,7 @@ describe("Fibonacci Test", () => {
         it("generates 75025", () => {
             expect(fib.calculate(25)).to.equal(75025)
         });
+
     });
+    
 });

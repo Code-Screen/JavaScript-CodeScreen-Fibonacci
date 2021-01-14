@@ -5,7 +5,9 @@ const { expect } = pkg;
 const fib = new Fibonacci();
 
 describe("Fibonacci Hidden Test", () => {
+
     describe("calculate", () => {
+
         it("generates 377", () => {
             expect(fib.calculate(14)).to.equal(377)
         });
@@ -21,5 +23,7 @@ describe("Fibonacci Hidden Test", () => {
         it("generates 4181", () => {
             expect(fib.calculate(19)).to.equal(4181)
         });
+
     });
+    
 });
