@@ -1,7 +1,7 @@
 # JavaScript-CodeScreen-Fibonacci
 Example CodeScreen JavaScript (Node.js) assessment that requires the candidate to return the nth element in the Fibonacci sequence.
 
-The sequence is assumed to be 0-indexed, with fibonacci(0) returning 0 and fibonacci(1) returning 1.
+The sequence is assumed to be `0-indexed`, with `fibonacci(0)` returning 0 and `fibonacci(1)` returning 1.
 
 The class to write this method in is [fibonacci.js](fibonacci.js).
 
