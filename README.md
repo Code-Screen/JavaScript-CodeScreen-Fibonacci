@@ -16,7 +16,7 @@ can add these in a separate file in the `tests` folder.
 
 The `package.json` file should only be modified in order to add any third-party dependencies required for your solution. The `jest` and `babel` versions should not be changed.
 
-Your solution must use/be compatible with `Node.js` version `15.5.1`.
+Your solution must use/be compatible with `Node.js` version `18`.
 
 ## Tests
 Run `npm install` to install all dependencies and then run `npm run test` to run the unit tests. These should all pass if your solution has been implemented correctly.
